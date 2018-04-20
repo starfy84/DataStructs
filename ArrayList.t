@@ -1,9 +1,9 @@
 class ArrayList
-    export getLength,push,pop,at,toString,add,remove
+    export size,push,pop,at,toString,add,remove
     var arr : flexible array 1..0 of int
-    function getLength:int
+    function size:int
         result upper(arr)
-    end getLength
+    end size
     proc push(i:int)
         new arr,upper(arr)+1
         arr(upper(arr)):=i
