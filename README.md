@@ -1,4 +1,4 @@
-# DataStructs
+# DataStructs-Turing
 All your favourite data structures remastered for Turing 4.1.1
 
 <h2>Implementation Details</h2>
